@@ -21,7 +21,7 @@
 <div align="center">
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
   <legend align="center"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
-  <div align="center">
+  <div align="left">
     <p>Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na FATEC Mogi das Cruzes. Minha jornada na tecnologia começou com o ensino médio técnico em Informática para a Internet, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
     <p>Meu principal interesse e área de estudo é o ecossistema <strong>Java</strong> com o framework <strong>Spring Boot</strong>. Busco constantemente aprofundar meus conhecimentos em <strong>arquitetura de software</strong>, <strong>Clean Architecture</strong> e boas práticas de desenvolvimento como TDD e SOLID.</p>
     <p>Embora meu foco seja Back-End, tenho conhecimento em <strong>HTML, CSS, JavaScript e Bootstrap</strong>, o que me proporciona uma visão completa e integrada do ciclo de desenvolvimento de aplicações web.</p>
